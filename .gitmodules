@@ -1,0 +1,9 @@
+[submodule "MIRAGE"]
+	path = MIRAGE
+	url = https://github.com/kxxdhdn/MIRAGE.git
+[submodule "MILES"]
+	path = MILES
+	url = https://github.com/kxxdhdn/MILES.git
+[submodule "RAPYUTA"]
+	path = RAPYUTA
+	url = https://github.com/kxxdhdn/RAPYUTA.git
